@@ -32,6 +32,7 @@ class Plugin {
 		SEO::get_instance();
 		Blocks::get_instance();
 		Dashboard_Widgets::get_instance();
+		Settings::get_instance();
 
 	}
 
