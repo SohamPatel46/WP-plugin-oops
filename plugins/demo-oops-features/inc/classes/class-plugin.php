@@ -33,6 +33,7 @@ class Plugin {
 		Blocks::get_instance();
 		Dashboard_Widgets::get_instance();
 		Settings::get_instance();
+		Shortcodes::get_instance();
 
 	}
 
