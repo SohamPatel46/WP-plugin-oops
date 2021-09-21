@@ -34,7 +34,7 @@ class Plugin {
 		Dashboard_Widgets::get_instance();
 		Settings::get_instance();
 		Shortcodes::get_instance();
-		WP_CLI::get_instance();
+		// WP_CLI::get_instance();
 	}
 
 }
