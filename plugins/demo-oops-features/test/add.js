@@ -1,4 +1,4 @@
-const add = require('../add.js');
+const add = require('../JS/add2.js');
 
 QUnit.module('add');
 
